@@ -1,0 +1,6 @@
+ven/
+__pycache__/
+*.pyc
+.vscode/
+*.pkl
+.DS_Store
